@@ -173,3 +173,4 @@ Code: MIT (see `LICENSE`). Data: CC BY 4.0, Dubai Real Estate Data (dubairealest
 
 ---
 Built by **Hussain Ahmed** · [GitHub](https://github.com/HussainAhmed75) · [Kaggle](https://www.kaggle.com/hussianahmed)
+· [Run it on Kaggle](https://www.kaggle.com/code/hussianahmed/dubai-home-prices-honest-ml-on-1-38m-dld-sales)
