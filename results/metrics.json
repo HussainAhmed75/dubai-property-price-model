@@ -1,0 +1,742 @@
+{
+  "area_growth_2021_2025_top10": [
+    {
+      "area": "Nadd Hessa",
+      "growth_pct": 152.5,
+      "psm_2021": 6634,
+      "psm_2025": 16749
+    },
+    {
+      "area": "Al Hebiah First",
+      "growth_pct": 151.0,
+      "psm_2021": 8191,
+      "psm_2025": 20559
+    },
+    {
+      "area": "Madinat Al Mataar",
+      "growth_pct": 136.3,
+      "psm_2021": 7213,
+      "psm_2025": 17042
+    },
+    {
+      "area": "Al Jadaf",
+      "growth_pct": 126.2,
+      "psm_2021": 8922,
+      "psm_2025": 20183
+    },
+    {
+      "area": "Wadi Al Safa 6",
+      "growth_pct": 122.2,
+      "psm_2021": 6583,
+      "psm_2025": 14629
+    },
+    {
+      "area": "Al Thanyah Fifth",
+      "growth_pct": 118.7,
+      "psm_2021": 10746,
+      "psm_2025": 23499
+    },
+    {
+      "area": "Al Thanayah Fourth",
+      "growth_pct": 108.5,
+      "psm_2021": 8116,
+      "psm_2025": 16922
+    },
+    {
+      "area": "Hadaeq Sheikh Mohammed Bin Rashid",
+      "growth_pct": 104.1,
+      "psm_2021": 12749,
+      "psm_2025": 26026
+    },
+    {
+      "area": "Al Yufrah 1",
+      "growth_pct": 92.0,
+      "psm_2021": 7758,
+      "psm_2025": 14896
+    },
+    {
+      "area": "Al Thanyah Third",
+      "growth_pct": 82.6,
+      "psm_2021": 10706,
+      "psm_2025": 19552
+    }
+  ],
+  "by_year": {
+    "2010": {
+      "median_psm": 9444.77,
+      "median_size_sqm": 94.39,
+      "offplan_share_pct": 29.66,
+      "transactions": 24941.0
+    },
+    "2011": {
+      "median_psm": 8843.72,
+      "median_size_sqm": 115.35,
+      "offplan_share_pct": 9.07,
+      "transactions": 20115.0
+    },
+    "2012": {
+      "median_psm": 9232.18,
+      "median_size_sqm": 106.0,
+      "offplan_share_pct": 10.35,
+      "transactions": 24785.0
+    },
+    "2013": {
+      "median_psm": 10108.3,
+      "median_size_sqm": 99.42,
+      "offplan_share_pct": 17.4,
+      "transactions": 44109.0
+    },
+    "2014": {
+      "median_psm": 11042.47,
+      "median_size_sqm": 90.88,
+      "offplan_share_pct": 25.92,
+      "transactions": 39038.0
+    },
+    "2015": {
+      "median_psm": 10574.57,
+      "median_size_sqm": 91.57,
+      "offplan_share_pct": 37.16,
+      "transactions": 29502.0
+    },
+    "2016": {
+      "median_psm": 10686.66,
+      "median_size_sqm": 90.49,
+      "offplan_share_pct": 47.38,
+      "transactions": 28886.0
+    },
+    "2017": {
+      "median_psm": 10910.27,
+      "median_size_sqm": 93.85,
+      "offplan_share_pct": 54.64,
+      "transactions": 33609.0
+    },
+    "2018": {
+      "median_psm": 11217.69,
+      "median_size_sqm": 82.33,
+      "offplan_share_pct": 54.3,
+      "transactions": 23962.0
+    },
+    "2019": {
+      "median_psm": 10540.77,
+      "median_size_sqm": 94.33,
+      "offplan_share_pct": 61.32,
+      "transactions": 29503.0
+    },
+    "2020": {
+      "median_psm": 9933.92,
+      "median_size_sqm": 97.03,
+      "offplan_share_pct": 48.99,
+      "transactions": 25028.0
+    },
+    "2021": {
+      "median_psm": 11049.88,
+      "median_size_sqm": 109.58,
+      "offplan_share_pct": 45.97,
+      "transactions": 44573.0
+    },
+    "2022": {
+      "median_psm": 13972.48,
+      "median_size_sqm": 92.39,
+      "offplan_share_pct": 53.93,
+      "transactions": 70843.0
+    },
+    "2023": {
+      "median_psm": 15248.59,
+      "median_size_sqm": 82.78,
+      "offplan_share_pct": 59.52,
+      "transactions": 103220.0
+    },
+    "2024": {
+      "median_psm": 16737.89,
+      "median_size_sqm": 79.59,
+      "offplan_share_pct": 67.75,
+      "transactions": 147747.0
+    },
+    "2025": {
+      "median_psm": 18156.4,
+      "median_size_sqm": 76.54,
+      "offplan_share_pct": 71.49,
+      "transactions": 173914.0
+    },
+    "2026": {
+      "median_psm": 18501.59,
+      "median_size_sqm": 72.3,
+      "offplan_share_pct": 74.04,
+      "transactions": 102891.0
+    }
+  },
+  "case_studies": [
+    {
+      "actual_aed": 1049155,
+      "area": "Wadi Al Safa 5",
+      "case": "hit",
+      "date": "2025-07-21",
+      "error_pct": 0.8,
+      "past_sales_in_building": 6,
+      "predicted_aed": 1057000,
+      "procedure": "Sell - Pre registration",
+      "project": "VERDANIA 2",
+      "reg_type": "Off-Plan",
+      "rooms": 1,
+      "size_sqm": 70.0,
+      "top_shap_features": [
+        "Same project, past 365d",
+        "Area × type × off-plan, past 365d",
+        "Size (log m²)"
+      ],
+      "type": "Unit"
+    },
+    {
+      "actual_aed": 1735000,
+      "area": "Al Hebiah First",
+      "case": "over_estimate_p99",
+      "date": "2026-02-26",
+      "error_pct": 64.2,
+      "past_sales_in_building": 0,
+      "predicted_aed": 2848000,
+      "procedure": null,
+      "project": null,
+      "reg_type": "Ready",
+      "rooms": 3,
+      "size_sqm": 201.5,
+      "top_shap_features": [
+        "Same project, past 365d (no data)",
+        "Area × rooms, past 365d",
+        "Size (log m²)"
+      ],
+      "type": "Unit"
+    },
+    {
+      "actual_aed": 5065000,
+      "area": "Palm Deira",
+      "case": "under_estimate_p99",
+      "date": "2025-12-17",
+      "error_pct": -32.3,
+      "past_sales_in_building": 0,
+      "predicted_aed": 3428000,
+      "procedure": "Sell - Pre registration",
+      "project": "LIA",
+      "reg_type": "Off-Plan",
+      "rooms": 2,
+      "size_sqm": 136.0,
+      "top_shap_features": [
+        "Area × type × off-plan, past 365d",
+        "Area × rooms, past 365d",
+        "Past prices in same building (no data)"
+      ],
+      "type": "Unit"
+    }
+  ],
+  "cleaning_log": [
+    {
+      "reason": "file as downloaded",
+      "rows_after": 1382848,
+      "rows_before": 1382848,
+      "rows_removed": 0,
+      "step": "raw"
+    },
+    {
+      "reason": "publisher's own checks: price floor, area range, P1-P99 psf band, bad dates",
+      "rows_after": 1354155,
+      "rows_before": 1382848,
+      "rows_removed": 28693,
+      "step": "quality_flags == 0"
+    },
+    {
+      "reason": "Land trades on plot area and whole Buildings price wholesale; commercial units price differently",
+      "rows_after": 1094417,
+      "rows_before": 1354155,
+      "rows_removed": 259738,
+      "step": "residential Unit/Villa only"
+    },
+    {
+      "reason": "offices/shops/hotel rooms/hotel apartments registered under Residential",
+      "rows_after": 1088107,
+      "rows_before": 1094417,
+      "rows_removed": 6310,
+      "step": "drop non-home sub-types"
+    },
+    {
+      "reason": "cannot tell identical bulk sales from re-registrations; keep one so no single deal dominates",
+      "rows_after": 1032748,
+      "rows_before": 1088107,
+      "rows_removed": 55359,
+      "step": "drop exact duplicates (all columns except transaction_id)"
+    },
+    {
+      "reason": "pre-2010 years are thin (<10k rows/yr before 2007) and only add noise to rolling history",
+      "rows_after": 966666,
+      "rows_before": 1032748,
+      "rows_removed": 66082,
+      "step": "date >= 2010-01-01"
+    }
+  ],
+  "config": {
+    "case_percentile": 99,
+    "history_start": "2010-01-01",
+    "interval_nominal_pct": 80,
+    "min_area_sales_for_growth": 300,
+    "min_past_sales_building_rule": 3,
+    "model_start": "2013-01-01",
+    "optuna_trials": 25,
+    "rf_subsample_rows": 300000,
+    "seed": 42,
+    "shap_sample_rows": 4000,
+    "within_thresholds_pct": [
+      10,
+      20
+    ]
+  },
+  "dataset": {
+    "date_max_clean": "2026-11-02",
+    "date_min_clean": "2010-01-01",
+    "duplicates_all_but_id_raw": 74762,
+    "license": "CC BY 4.0",
+    "n_areas": 127,
+    "rows_clean": 966666,
+    "rows_raw": 1382848,
+    "source": "Dubai Land Department open data via dubairealestatedata.com"
+  },
+  "drift": {
+    "first_month": "2025-01",
+    "frozen_first_month_worse_than_rule": "2026-04",
+    "frozen_months_better_than_building_rule": 15,
+    "last_month": "2026-11",
+    "last_month_is_partial_days": 2,
+    "mdape_first3_months_avg": 6.35,
+    "mdape_last3_months_avg": 9.27,
+    "n_months": 23,
+    "walk_forward_last3_months_avg": 6.78,
+    "walk_forward_months_better_than_building_rule": 23
+  },
+  "facts": {
+    "busiest_area_2025": "Al Barsha South Fourth",
+    "busiest_area_2025_share_pct": 9.9,
+    "busiest_area_2025_tx": 17285,
+    "fastest_area_2021_2025": "Nadd Hessa",
+    "fastest_area_growth_pct": 152.5,
+    "marina_growth_pct": 38.7,
+    "median_psm_2020": 9934,
+    "median_psm_2025": 18156,
+    "median_psm_growth_2020_2025_pct": 82.8,
+    "median_size_2020_sqm": 97.0,
+    "median_size_2021_sqm": 109.6,
+    "median_size_2025_sqm": 76.5,
+    "median_size_2026_is_lowest_since_2010": true,
+    "median_size_2026ytd_sqm": 72.3,
+    "n_areas_compared_2021_2025": 30,
+    "offplan_premium_2025_pct": 32.6,
+    "offplan_psm_2025": 19476,
+    "offplan_share_2021_pct": 46.0,
+    "offplan_share_2025_pct": 71.5,
+    "ready_psm_2025": 14691,
+    "share_2025_at_least_1m_aed_pct": 71.8,
+    "tx_2020": 25028,
+    "tx_2025": 173914,
+    "tx_multiple_2025_vs_2020": 6.9
+  },
+  "headline": {
+    "beats_best_baseline_on_test": true,
+    "building_rule_test_mdape_pct": 8.304,
+    "comps_rule_test_mdape_pct": 12.456,
+    "error_reduction_vs_building_rule_pct": 18.1,
+    "error_reduction_vs_comps_rule_pct": 45.4,
+    "final_model": "LightGBM (tuned, final)",
+    "test_mdape_pct": 6.804,
+    "test_r2_log_psm": 0.847,
+    "test_within_10pct": 65.343,
+    "test_within_20pct": 88.24,
+    "val_mdape_tuned_pct": 6.883
+  },
+  "interval": {
+    "half_width_log": 0.1449,
+    "nominal_coverage_pct": 80.0,
+    "relative_band_pct": [
+      -13.5,
+      15.6
+    ],
+    "test_coverage_min_month_pct": 68.54,
+    "test_coverage_pct": 79.2
+  },
+  "shap_mean_abs_top10": {
+    "area_id_cat": 0.024,
+    "area_mean_90": 0.0184,
+    "bldg_mean_all": 0.0514,
+    "log_area_sqm": 0.0672,
+    "mkt_reg_mean_30": 0.0158,
+    "proj_mean_365": 0.2216,
+    "proj_mean_all": 0.0092,
+    "rooms": 0.0395,
+    "rooms_mean_365": 0.0658,
+    "seg_mean_365": 0.0684
+  },
+  "splits": {
+    "n_features": 23,
+    "test": {
+      "from": "2025-01-01",
+      "n": 276805,
+      "to": "2026-11-02"
+    },
+    "train": {
+      "from": "2013-01-02",
+      "n": 472273,
+      "to": "2023-12-29"
+    },
+    "validation": {
+      "from": "2024-01-01",
+      "n": 147747,
+      "to": "2024-12-31"
+    }
+  },
+  "test": {
+    "Building rule": {
+      "mae_log": 0.125,
+      "mape_pct": 12.821,
+      "mdape_pct": 8.304,
+      "n": 276805.0,
+      "r2_log_psm": 0.768,
+      "within_10pct": 56.825,
+      "within_20pct": 81.433
+    },
+    "Comps rule (1 feature)": {
+      "mae_log": 0.164,
+      "mape_pct": 16.983,
+      "mdape_pct": 12.456,
+      "n": 276805.0,
+      "r2_log_psm": 0.67,
+      "within_10pct": 41.32,
+      "within_20pct": 71.257
+    },
+    "LightGBM": {
+      "mae_log": 0.104,
+      "mape_pct": 11.669,
+      "mdape_pct": 7.5,
+      "n": 276805.0,
+      "r2_log_psm": 0.836,
+      "within_10pct": 61.468,
+      "within_20pct": 86.784
+    },
+    "LightGBM (tuned, final)": {
+      "mae_log": 0.097,
+      "mape_pct": 11.023,
+      "mdape_pct": 6.804,
+      "n": 276805.0,
+      "r2_log_psm": 0.847,
+      "within_10pct": 65.343,
+      "within_20pct": 88.24
+    },
+    "Market baseline": {
+      "mae_log": 0.293,
+      "mape_pct": 30.535,
+      "mdape_pct": 25.469,
+      "n": 276805.0,
+      "r2_log_psm": 0.121,
+      "within_10pct": 21.615,
+      "within_20pct": 40.224
+    },
+    "Random Forest": {
+      "mae_log": 0.108,
+      "mape_pct": 12.441,
+      "mdape_pct": 7.628,
+      "n": 276805.0,
+      "r2_log_psm": 0.818,
+      "within_10pct": 60.494,
+      "within_20pct": 84.817
+    },
+    "Ridge (linear)": {
+      "mae_log": 0.258,
+      "mape_pct": 19.645,
+      "mdape_pct": 12.403,
+      "n": 276805.0,
+      "r2_log_psm": -0.85,
+      "within_10pct": 41.953,
+      "within_20pct": 69.929
+    },
+    "XGBoost": {
+      "mae_log": 0.143,
+      "mape_pct": 13.696,
+      "mdape_pct": 8.439,
+      "n": 276805.0,
+      "r2_log_psm": 0.622,
+      "within_10pct": 56.671,
+      "within_20pct": 82.082
+    }
+  },
+  "test_by_month": {
+    "2025-01": {
+      "mdape_building_rule": 9.37,
+      "mdape_model": 6.22,
+      "mdape_walk_forward": 6.22,
+      "n": 10567.0
+    },
+    "2025-02": {
+      "mdape_building_rule": 9.74,
+      "mdape_model": 6.37,
+      "mdape_walk_forward": 6.28,
+      "n": 12486.0
+    },
+    "2025-03": {
+      "mdape_building_rule": 9.34,
+      "mdape_model": 6.47,
+      "mdape_walk_forward": 6.14,
+      "n": 12185.0
+    },
+    "2025-04": {
+      "mdape_building_rule": 9.1,
+      "mdape_model": 6.53,
+      "mdape_walk_forward": 6.14,
+      "n": 13746.0
+    },
+    "2025-05": {
+      "mdape_building_rule": 9.1,
+      "mdape_model": 6.5,
+      "mdape_walk_forward": 6.16,
+      "n": 14154.0
+    },
+    "2025-06": {
+      "mdape_building_rule": 8.32,
+      "mdape_model": 6.22,
+      "mdape_walk_forward": 5.73,
+      "n": 12951.0
+    },
+    "2025-07": {
+      "mdape_building_rule": 7.82,
+      "mdape_model": 6.32,
+      "mdape_walk_forward": 5.74,
+      "n": 16286.0
+    },
+    "2025-08": {
+      "mdape_building_rule": 8.17,
+      "mdape_model": 6.4,
+      "mdape_walk_forward": 5.97,
+      "n": 15510.0
+    },
+    "2025-09": {
+      "mdape_building_rule": 8.53,
+      "mdape_model": 6.2,
+      "mdape_walk_forward": 5.53,
+      "n": 17295.0
+    },
+    "2025-10": {
+      "mdape_building_rule": 9.14,
+      "mdape_model": 6.37,
+      "mdape_walk_forward": 5.64,
+      "n": 16502.0
+    },
+    "2025-11": {
+      "mdape_building_rule": 7.95,
+      "mdape_model": 6.26,
+      "mdape_walk_forward": 5.58,
+      "n": 16053.0
+    },
+    "2025-12": {
+      "mdape_building_rule": 9.67,
+      "mdape_model": 6.97,
+      "mdape_walk_forward": 6.21,
+      "n": 16179.0
+    },
+    "2026-01": {
+      "mdape_building_rule": 8.75,
+      "mdape_model": 6.42,
+      "mdape_walk_forward": 5.78,
+      "n": 13526.0
+    },
+    "2026-02": {
+      "mdape_building_rule": 8.07,
+      "mdape_model": 6.95,
+      "mdape_walk_forward": 6.71,
+      "n": 13284.0
+    },
+    "2026-03": {
+      "mdape_building_rule": 7.16,
+      "mdape_model": 7.0,
+      "mdape_walk_forward": 6.0,
+      "n": 10001.0
+    },
+    "2026-04": {
+      "mdape_building_rule": 6.75,
+      "mdape_model": 7.07,
+      "mdape_walk_forward": 5.76,
+      "n": 10730.0
+    },
+    "2026-05": {
+      "mdape_building_rule": 7.68,
+      "mdape_model": 8.2,
+      "mdape_walk_forward": 6.61,
+      "n": 7687.0
+    },
+    "2026-06": {
+      "mdape_building_rule": 7.47,
+      "mdape_model": 8.05,
+      "mdape_walk_forward": 6.23,
+      "n": 10398.0
+    },
+    "2026-07": {
+      "mdape_building_rule": 7.67,
+      "mdape_model": 8.39,
+      "mdape_walk_forward": 6.15,
+      "n": 10910.0
+    },
+    "2026-08": {
+      "mdape_building_rule": 7.7,
+      "mdape_model": 7.99,
+      "mdape_walk_forward": 6.56,
+      "n": 9246.0
+    },
+    "2026-09": {
+      "mdape_building_rule": 7.43,
+      "mdape_model": 8.49,
+      "mdape_walk_forward": 6.52,
+      "n": 8416.0
+    },
+    "2026-10": {
+      "mdape_building_rule": 7.73,
+      "mdape_model": 8.91,
+      "mdape_walk_forward": 6.48,
+      "n": 8419.0
+    },
+    "2026-11": {
+      "mdape_building_rule": 10.12,
+      "mdape_model": 10.41,
+      "mdape_walk_forward": 7.34,
+      "n": 274.0
+    }
+  },
+  "test_by_segment": {
+    "has_bldg_history": {
+      "new / unknown building": {
+        "mdape_building_rule": 8.32,
+        "mdape_model": 8.03,
+        "n": 102973.0
+      },
+      "≥3 past sales in building": {
+        "mdape_building_rule": 8.29,
+        "mdape_model": 6.22,
+        "n": 173832.0
+      }
+    },
+    "prop_type": {
+      "Unit": {
+        "mdape_building_rule": 8.03,
+        "mdape_model": 6.73,
+        "n": 259256.0
+      },
+      "Villa": {
+        "mdape_building_rule": 13.13,
+        "mdape_model": 8.11,
+        "n": 17549.0
+      }
+    },
+    "reg_type_label": {
+      "Off-Plan": {
+        "mdape_building_rule": 6.71,
+        "mdape_model": 6.07,
+        "n": 200500.0
+      },
+      "Ready": {
+        "mdape_building_rule": 15.82,
+        "mdape_model": 9.43,
+        "n": 76305.0
+      }
+    }
+  },
+  "tuning": {
+    "best_iteration": 447,
+    "best_params": {
+      "colsample_bytree": 0.690258,
+      "min_child_samples": 91,
+      "min_split_gain": 0.046672,
+      "num_leaves": 54,
+      "reg_lambda": 0.463665,
+      "subsample": 0.858839
+    },
+    "family": "LightGBM",
+    "learning_rate": 0.08,
+    "n_trials": 25,
+    "val_mdape_tuned": 6.883,
+    "val_mdape_untuned": 6.947
+  },
+  "validation": {
+    "Building rule": {
+      "mae_log": 0.131,
+      "mape_pct": 12.44,
+      "mdape_pct": 8.744,
+      "n": 147747.0,
+      "r2_log_psm": 0.807,
+      "within_10pct": 54.696,
+      "within_20pct": 79.514
+    },
+    "Comps rule (1 feature)": {
+      "mae_log": 0.167,
+      "mape_pct": 16.365,
+      "mdape_pct": 12.374,
+      "n": 147747.0,
+      "r2_log_psm": 0.716,
+      "within_10pct": 41.987,
+      "within_20pct": 69.979
+    },
+    "LightGBM": {
+      "mae_log": 0.094,
+      "mape_pct": 9.508,
+      "mdape_pct": 6.947,
+      "n": 147747.0,
+      "r2_log_psm": 0.904,
+      "within_10pct": 64.979,
+      "within_20pct": 89.79
+    },
+    "LightGBM (tuned)": {
+      "mae_log": 0.094,
+      "mape_pct": 9.518,
+      "mdape_pct": 6.883,
+      "n": 147747,
+      "r2_log_psm": 0.903,
+      "within_10pct": 65.264,
+      "within_20pct": 89.552
+    },
+    "Market baseline": {
+      "mae_log": 0.324,
+      "mape_pct": 33.65,
+      "mdape_pct": 28.37,
+      "n": 147747.0,
+      "r2_log_psm": 0.126,
+      "within_10pct": 16.903,
+      "within_20pct": 34.141
+    },
+    "Random Forest": {
+      "mae_log": 0.099,
+      "mape_pct": 10.05,
+      "mdape_pct": 7.209,
+      "n": 147747.0,
+      "r2_log_psm": 0.894,
+      "within_10pct": 63.377,
+      "within_20pct": 88.285
+    },
+    "Ridge (linear)": {
+      "mae_log": 0.128,
+      "mape_pct": 13.114,
+      "mdape_pct": 10.318,
+      "n": 147747.0,
+      "r2_log_psm": 0.839,
+      "within_10pct": 48.736,
+      "within_20pct": 78.729
+    },
+    "XGBoost": {
+      "mae_log": 0.096,
+      "mape_pct": 9.711,
+      "mdape_pct": 7.13,
+      "n": 147747.0,
+      "r2_log_psm": 0.9,
+      "within_10pct": 63.781,
+      "within_20pct": 89.397
+    }
+  },
+  "walk_forward": {
+    "mae_log": 0.088,
+    "mape_pct": 9.775,
+    "mdape_pct": 6.034,
+    "n": 276805,
+    "r2_log_psm": 0.868,
+    "within_10pct": 70.055,
+    "within_20pct": 90.993
+  }
+}
