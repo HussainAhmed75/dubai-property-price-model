@@ -1,0 +1,16 @@
+# data is downloaded from Kaggle (see README) - not committed
+data/
+*.parquet
+*.csv
+!results/whatif_lookup.csv
+# personal notes and drafts
+notes/
+# python / jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+.streamlit/secrets.toml
+.DS_Store
